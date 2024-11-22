@@ -1,1 +1,1 @@
-# the-pathways.github.io
+# ThePathways.github.io
